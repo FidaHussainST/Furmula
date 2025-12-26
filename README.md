@@ -2,7 +2,7 @@
 
 A fully functional, skeuomorphic calculator built with **Flutter**, featuring a hyper-realistic "plush" interface where buttons actually feel pressed into the fur.
 
-![App Screenshot](https://github.com/FidaHussainST/Furmula/blob/main/Screenshots/video.gif)
+![App Screenshot](("https://github.com/FidaHussainST/Furmula/blob/main/Screenshots/video.gif"))
 
 ## ✨ Features
 * **Tactile UI:** Uses a custom "Overlay Method" to simulate buttons sinking into a fur texture.
