@@ -31,4 +31,4 @@ The app avoids heavy rendering by using a **Stack-based Overlay System**:
 ## 📦 How to Run
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/fluffy-calc.git](https://github.com/YOUR_USERNAME/fluffy-calc.git)
+   git clone https://github.com/FidaHussainST/Furmula.git
